@@ -1,0 +1,31 @@
+{
+  "name": "P12Legarant",
+  "version": "0.3.0",
+  "description": "Web app for Legarant Company",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.4.2",
+    "pg-hstore": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnessilopenclassroom/P12Legarant"
+  },
+  "bugs": {
+    "url": "https://github.com/mnessilopenclassroom/P12Legarant"
+  },
+  "homepage": "https://github.com/mnessilopenclassroom/P12Legarant",
+  "author": "",
+  "license": "ISC"
+}

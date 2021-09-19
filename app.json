@@ -1,0 +1,8 @@
+{
+    "name": "P12Legarant",
+    "description": "This application is a mobile web app for Legarant Company.",
+    "repository": "https://github.com/mnessilopenclassroom/P12Legarant.git",
+    "success_url": "/index.html",  
+    "addons": ["heroku-postgresql", "herokuconnect"]
+    
+  }
