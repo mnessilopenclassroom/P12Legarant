@@ -35,7 +35,7 @@ body
     height: 28px;
     font-size: 1em;
     font-family: 'Source Sans Pro', arial, sans-serif;
-    color: grey;
+    color: rgb(7, 7, 7);
     margin-top: 3px;
     margin-bottom: 15px;
 }
@@ -96,7 +96,7 @@ text-align: left;
   background: white;
   border: none;
   border-radius: 5px;
-  color: grey;
+  color: rgb(10, 10, 10);
   margin-top: 5px;
   padding-left: 3px;
 
@@ -109,7 +109,7 @@ text-align: left;
   border: none;
   border-width:0px;
   background-color: #F5F5F5;
-  color: grey;
+  color: rgb(14, 13, 13);
   padding-left: 10px;
   margin-left: 5px;
 }
