@@ -14,7 +14,7 @@
 body 
 {
   font-family: 'Source Sans Pro', arial, sans-serif;
-  background-color: #dcd7d7;
+  background-color: #92c7f1;
   text-align: center;
   color: black;
   font-size: 1.2em;
@@ -74,19 +74,19 @@ text-align: center;
 
 #blocContactDetails
 {
-  width: 40%;
+  width: 50%;
   margin-left: 5px;
   margin-right: 5px;
 }
 #blocContractDetails
 {
-  width: 30%;
+  width: 20%;
   margin-left: 5px;
   margin-right: 5px;
 }
 #blocProductDetails
 {
-  width:30%;
+  width:20%;
   margin-left: 5px;
   margin-right: 5px;
 }
