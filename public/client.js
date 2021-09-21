@@ -138,7 +138,7 @@ registerButton.addEventListener('click', function(e){
 
       } else {
 
-          document.getElementById("errorMessage").innerHTML= "Veuillez saisir un Email et Mot de passe valide."
+          alert('Veuillez saisir un Email et Mot de passe valide');
       } 
     }
   };
@@ -199,7 +199,7 @@ function displayContactInformations(firstName) {
         welcomePage.style.display="none";
         informationsPage.style.display="block";
 
-        document.getElementById("welcomePersonalSpace").textContent = "Bienvenue "+firstName+" dans votre espace client";
+        document.getElementById("welcomePersonalSpace").textContent = "Bienvenue "+firstName+" ,cher collaborateur voici votre espace client";
 }
 
 function displayContactDetails(contact){

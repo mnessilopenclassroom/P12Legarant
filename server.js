@@ -126,7 +126,7 @@ app.post('/api/update', (req, res) => {
     }
   client.query(query).then(response => {
      
-    res.status(200).json({ "message": " Vos informations ont été mises à jour!"})
+    res.status(200).json({ "message": " Les informations du contact ont été mises à jour!"})
     
   }).catch(err => {
     res.status(500).json({ "message": err});

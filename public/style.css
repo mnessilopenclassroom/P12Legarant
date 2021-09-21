@@ -42,7 +42,7 @@ body
 
 #loginButton, #registerButton, #updateButton
 {
-  background: #9c006c;
+  background: #08b834;
   border: none;
   border-radius: 5px;
   height: 35px;
@@ -69,7 +69,7 @@ body
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-text-align: left;
+text-align: center;
 }
 
 #blocContactDetails
