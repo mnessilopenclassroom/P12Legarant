@@ -69,24 +69,24 @@ body
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-text-align: center;
+text-align: justify;
 }
 
 #blocContactDetails
 {
-  width: 50%;
+  width: 33%;
   margin-left: 5px;
   margin-right: 5px;
 }
 #blocContractDetails
 {
-  width: 20%;
+  width: 33%;
   margin-left: 5px;
   margin-right: 5px;
 }
 #blocProductDetails
 {
-  width:20%;
+  width:33%;
   margin-left: 5px;
   margin-right: 5px;
 }
